@@ -40,4 +40,4 @@
   
 </div>
 
-![Snake gif](https://github.com/m4yc/m4yc/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/M4yc/M4yc/blob/output/github-contribution-grid-snake.svg)
