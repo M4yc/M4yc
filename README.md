@@ -6,9 +6,8 @@
 
 <div>
   <a heref="https://github.com/M4yc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4yc&count_private=true&include_all_commits=false&show_icons=true&theme=midnight-purple"/>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4yc&theme=midnight-purple)](https://github.com/m4yc/github-readme-stats)
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=m4yc&count_private=true&include_all_commits=false&show_icons=true&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4yc&theme=midnight-purple&hide_border=false&&layout=compact"/>
 
 </div>
 
