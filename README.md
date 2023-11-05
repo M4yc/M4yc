@@ -6,10 +6,17 @@
 
 <div>
   <a heref="https://github.com/M4yc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=m4yc&count_private=true&include_all_commits=false&show_icons=true&theme=midnight-purple"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4yc&theme=midnight-purple&hide_border=false&&layout=compact"/>
+
+  <a href="https://github.com/m4yc/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github" />
+</a>
+<a href="https://github.com/m4yc/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4yc&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+</a>
 
 </div>
+
+###
 
 <div>
   <img align="center" alt="M4yc-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
