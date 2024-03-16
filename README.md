@@ -1,22 +1,13 @@
 ## Olá! Eu sou o Maycon Vinicius
 
-- 🔭 Estou trabalhando como Designer Freelancer
-- 🌱 Estudando Python
-- ⚡ Estou cursando Engenharia Elétrica na UFV
+Tenho 21 anos, moro em Viçosa/MG e sou um entusiasta da tecnologia e do universo maker. Tenho interesse em criar projetos e desenvolver soluções inovadoras.🚀
 
-<div>
-  <a heref="https://github.com/M4yc">
+- 🎨 Estou estagiando como Designer
+- 🖥 Estou cursando ADS
 
-  <a href="https://github.com/M4yc">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github" />
-</a>
-<a href="https://github.com/M4yc">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4yc&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
-</a>
-
-</div>
 
 ###
+## 💻 Tecnologias e Ferramentas:
 
 <div>
   <img align="center" alt="M4yc-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -31,15 +22,22 @@
 
 ##
 <div>
-  <a href="https://www.linkedin.com/in/mayconaraujo-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/mayconaraujo2" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-  <a href="https://dribbble.com/Maycon_Araujo" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
-  <a href="https://www.youtube.com/@M4yc_araujo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/mayconaraujo.tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mayconvbatista84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
-  
+  <a heref="https://github.com/M4yc">
+
+  <a href="https://github.com/M4yc">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github" />
+</a>
+<a href="https://github.com/M4yc">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4yc&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+</a>
+
 </div>
 
-###
-![snake gif](https://github.com/m4yc/m4yc/blob/output/github-contribution-grid-snake.svg)
+##
+<div>
+  <a href="https://www.linkedin.com/in/mayconaraujo-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mayconaraujo.tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/mayconaraujo2" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+  <a href = "mailto:mayconvbatista84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+</div>
