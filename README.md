@@ -27,18 +27,21 @@ Tenho 21 anos, moro em Viçosa/MG e sou um entusiasta da tecnologia e do univers
 
 ## ⚡ GitHub Stats
 
-<style>
-    table {
-        border-collapse: collapse;
-    }
-    th, td {
-        border: none;
-    }
-</style>
+<div style="display: flex;">
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| <a href="https://github.com/M4yc"><img src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github" height="200"></a> | <a href="https://github.com/M4yc"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4yc&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" height="200"></a> |
+<div style="margin-right: 10px;">
+  <a href="https://github.com/M4yc">
+    <img src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github" height="200" style="border: none;">
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/M4yc">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4yc&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" height="200" style="border: none;">
+  </a>
+</div>
+
+</div>
 
 
 
