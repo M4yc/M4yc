@@ -38,6 +38,8 @@ Tenho 21 anos, moro em Viçosa/MG e sou um entusiasta da tecnologia e do univers
 
 </div>
 
-<img src="https://raw.githubusercontent.com/m4yc/m4yc/output/snake.svg" alt="Snake animation" />
-
 ###
+
+<img src="https://raw.githubusercontent.com/m4yc/m4yc/output/github-user-contribution.svg" alt="Snake animation" />
+
+
