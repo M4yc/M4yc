@@ -3,7 +3,7 @@
 Olá 👋, sou o Maycon Vinicius! Sou um estudante apaixonado por tecnologia e inovações.🚀
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Univiçosa e estagiando em Design.
-- 🚀 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Machine Learning.
+- 🚀 Estou em busca da minha primeira oportunidade de emprego na área. Meu sonho é um dia trabalhar com desenvolvimento de Apps.
 
 <details>
 <summary>👨‍💻 Mais sobre mim</summary>
