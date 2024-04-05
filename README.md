@@ -1,10 +1,19 @@
-## 🤘 Olá! Eu sou o Maycon Vinicius
+## 🤘 Olá, Mundo!
 
-Tenho 21 anos, moro em Viçosa/MG e sou um entusiasta da tecnologia e do universo maker. Tenho interesse em criar projetos e desenvolver soluções inovadoras.🚀
+Olá 👋, sou o Maycon Vinicius! Sou um estudante apaixonado por tecnologia e inovações.🚀
 
-- 🎨 Estou estagiando como Designer
-- 🖥 Estou cursando ADS
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Univiçosa e estagiando em Design.
+- 🚀 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Machine Learning.
 
+<details>
+<summary>👨‍💻 Mais sobre mim</summary>
+
+  - 💬 Tenho 21 anos e atualmente moro em Viçosa/MG. Tenho experiência em Design, Wordpress, Python e Arduino. Também trabalho com manutenção de computadores desde 2017, o que me motivou a interessar por tecnologia e resolver problemas.
+  - ⚡ Gosto de jogar, escutar música, ver um filme e ler.  Acredito que nossos interesses pessoais ajudem para a resolução de problemas e criatividade.
+
+</details>
+
+##
 <a href="https://www.linkedin.com/in/mayconaraujo-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/mayconaraujo.tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.behance.net/mayconaraujo2" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
