@@ -53,6 +53,8 @@ Olá 👋, sou o Maycon Vinicius! Sou um estudante apaixonado por tecnologia e i
 
 ###
 
-<img src="https://raw.githubusercontent.com/M4yc/M4yc/f0f4164795f3ecf81a797faa45357dc20b55d5bf/github-user-contribution.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/m4yc/m4yc/output/snake.svg" alt="Snake animation" />
+
+###
 
 
