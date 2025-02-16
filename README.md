@@ -36,25 +36,19 @@ Olá 👋, sou o Maycon Vinicius! Sou um estudante apaixonado por tecnologia e i
 
 ## ⚡ GitHub Stats
 
-<table style="border-collapse: collapse;">
-  <th style="border-bottom: 2px solid #eb4034;">
+<table>
+  <th>
     <a href="https://github.com/M4yc">
       <img src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github" height="200" style="border: none;">
     </a>
   </th>
-  <th style="border: none;">
+  <th >
     <a href="https://github.com/M4yc">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4yc&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" height="200" style="border: none;">
     </a>
   </th>
 </table>
 
-
-
 ###
 
 <img src="https://raw.githubusercontent.com/m4yc/m4yc/output/snake.svg" alt="Snake animation" />
-
-###
-
-
