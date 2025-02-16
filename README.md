@@ -2,13 +2,13 @@
 
 Olá 👋, sou o Maycon Vinicius! Sou um estudante apaixonado por tecnologia e inovações.🚀
 
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Univiçosa e estagiando em Design.
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Univiçosa.
 - 🚀 Estou em busca da minha primeira oportunidade de emprego na área. Meu sonho é um dia trabalhar com desenvolvimento de Apps.
 
 <details>
 <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 21 anos e atualmente moro em Viçosa/MG. Tenho experiência em Design, Wordpress, Python e Arduino. Também trabalho com manutenção de computadores desde 2017, o que me motivou a interessar por tecnologia e resolver problemas.
+  - 💬 Tenho 22 anos e atualmente moro em Viçosa/MG. Tenho experiência em Design, Wordpress, Python e Arduino. Também trabalho com manutenção de computadores desde 2017, o que me motivou a interessar por tecnologia e resolver problemas.
   - ⚡ Gosto de jogar, escutar música, ver um filme e ler.  Acredito que nossos interesses pessoais ajudem para a resolução de problemas e criatividade.
 
 </details>
