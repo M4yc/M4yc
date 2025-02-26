@@ -1,9 +1,10 @@
-## 🤘 Olá, Mundo!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9745F5&center=true&vCenter=true&width=524&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+## 🤘 Hello, World!
 
-Olá 👋, sou o Maycon Vinicius! Sou um estudante apaixonado por tecnologia e inovações.🚀
+Olá, meu nome é Maycon Araujo, ou “Maycosoft” (é como me chamam agora).Sou um estudante apaixonado por tecnologia e inovações.
 
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Univiçosa.
-- 🚀 Estou em busca da minha primeira oportunidade de emprego na área. Meu sonho é um dia trabalhar com desenvolvimento de Apps.
+- 📚 Estuadante de Análise e Desenvolvimento de Sistemas pela Univiçosa.
+- 🚀 Atualmente estou trabalhando com React Native e TypeScript e estudando python paralelamente.
 
 <details>
 <summary>👨‍💻 Mais sobre mim</summary>
@@ -24,7 +25,6 @@ Olá 👋, sou o Maycon Vinicius! Sou um estudante apaixonado por tecnologia e i
 
 <div>
   <img align="center" alt="M4yc-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="M4yc-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img align="center" alt="M4yc-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="M4yc-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="M4yc-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -32,23 +32,27 @@ Olá 👋, sou o Maycon Vinicius! Sou um estudante apaixonado por tecnologia e i
   <img align="center" alt="M4yc-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img align="center" alt="M4yc-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="M4yc-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="M4yc-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="M4yc-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="M4yc-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  
+
 </div>
+
+#
 
 ## ⚡ GitHub Stats
 
-<table style="border: none;">
-  <th>
+<div style="text-align: center" align="center">
     <a href="https://github.com/M4yc">
-      <img src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github" height="200" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github&hide=contribs" height="200" style="border: none;">
     </a>
-  </th>
-  <th >
     <a href="https://github.com/M4yc">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4yc&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" height="200" style="border: none;">
     </a>
-  </th>
-</table>
+  
+</div>
 
-###
+#
 
 <img src="https://raw.githubusercontent.com/m4yc/m4yc/output/snake.svg" alt="Snake animation" />
