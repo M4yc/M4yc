@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9745F5&center=true&vCenter=true&width=524&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 ## 🤘 Hello, World!
 
 Olá, meu nome é Maycon Araujo, ou “Maycosoft” (é como me chamam agora).Sou um estudante apaixonado por tecnologia e inovações.
