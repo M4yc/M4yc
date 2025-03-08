@@ -34,7 +34,7 @@ Olá, meu nome é Maycon Araujo, ou “Maycosoft” (é como me chamam agora).So
   <img align="center" alt="M4yc-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="M4yc-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="M4yc-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="M4yc-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg />
+  
   
 
 </div>
