@@ -42,14 +42,10 @@ Olá, meu nome é Maycon Araujo, ou “Maycosoft” (é como me chamam agora).So
 
 ## ⚡ GitHub Stats
 
-<div style="text-align: center" align="center">
-    <a href="https://github.com/M4yc">
-      <img src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github&hide=contribs" height="200" style="border: none;">
-    </a>
-    <a href="https://github.com/M4yc">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4yc&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" height="200" style="border: none;">
-    </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github&hide=contribs&hide_border=true&count_private=true" height="200" style="border: none;">
   
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4yc&radius=16&theme=react&area=true&order=5&bg_color=000&point=7F3ACE&line=7F3ACE&area_color=a58bc4&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 #
