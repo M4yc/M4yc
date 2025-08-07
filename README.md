@@ -57,11 +57,13 @@ Olá, meu nome é Maycon Araujo, ou “Maycosoft” (é como me chamam agora).So
 
 <img src="https://raw.githubusercontent.com/m4yc/m4yc/output/snake.svg" alt="Snake animation" />
 
+
 ## Repositórios destaques do GitHub
 <p  align="center">
   <a href="https://github.com/#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4yc&repo=trainingup&theme=midnight-purple&hide_border=true&no-bg=true&no-frame=true" />
   </a>
+  
   <a href="https://github.com/#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4yc&repo=video-analyzer&theme=midnight-purple&hide_border=true&no-bg=true&no-frame=true" />
   </a>
