@@ -46,25 +46,12 @@ Olá, meu nome é Maycon Araujo, ou “Maycosoft” (é como me chamam agora).So
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
+###
 
-## ⚡ GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4yc/m4yc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4yc/m4yc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m4yc/m4yc/output/pacman-contribution-graph.svg">
+</picture>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4yc&show_icons=true&theme=midnight-purple&rank_icon=github&hide=contribs&hide_border=true&count_private=true" height="200" style="border: none;">
-  
-</div>
-
-
-<img src="https://raw.githubusercontent.com/m4yc/m4yc/output/snake.svg" alt="Snake animation" />
-
-
-## Repositórios destaques do GitHub
-<p  align="center">
-  <a href="https://github.com/M4yc/trainingup">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4yc&repo=trainingup&theme=midnight-purple&hide_border=true&no-bg=true&no-frame=true" />
-  </a>
-  
-  <a href="https://github.com/M4yc/video-analyzer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4yc&repo=video-analyzer&theme=midnight-purple&hide_border=true&no-bg=true&no-frame=true" />
-  </a>
-</p>
+###
