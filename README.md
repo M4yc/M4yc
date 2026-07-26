@@ -46,12 +46,6 @@ Olá, meu nome é Maycon Araujo, ou “Maycosoft” (é como me chamam agora).So
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-###
+## 📈 Minhas contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4yc/m4yc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4yc/m4yc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m4yc/m4yc/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![](./profile-3d-contrib/profile-gitblock.svg)
